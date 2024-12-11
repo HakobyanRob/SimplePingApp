@@ -15,4 +15,5 @@ And a reporter which handles sending the reports.
 
 ## Logs
 Logs are saved in logs/application.log
+
 Logging behaviour can be configured from resources/logback.xml
